@@ -4,13 +4,13 @@
   "description": "Pinch zoom component for Angular.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drozhzhin-n-e/ngx-pinch-zoom.git"
+    "url": "git+https://github.com/Khazii/ngx-pinch-zoom.git"
   },
   "author": {
     "name": "Nikita Drozhzhin",
     "email": "drozhzhin.n.e@gmail.com"
   },
-  "homepage": "http://ivylab.space/pinch-zoom",
+  "homepage": "#",
   "keywords": [
     "Angular",
     "Angular 2",
@@ -22,7 +22,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drozhzhin-n-e/ngx-pinch-zoom/issues"
+    "url": "https://github.com/Khazii/ngx-pinch-zoom/issues"
   },
   "peerDependencies": {
     "@angular/common": "^14.2.12",
