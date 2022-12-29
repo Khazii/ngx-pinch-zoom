@@ -1,19 +1,20 @@
 {
   "name": "@khazii/ngx-pinch-zoom",
-  "version": "14.0.0",
+  "version": "14.2.12",
   "description": "Pinch zoom component for Angular.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Khazii/ngx-pinch-zoom.git"
+    "url": "git+https://github.com/Khazii/ngx-pinch-zoom"
   },
   "author": {
     "name": "Nikita Drozhzhin",
     "email": "drozhzhin.n.e@gmail.com"
   },
-  "homepage": "#",
+  "homepage": "https://github.com/Khazii/ngx-pinch-zoom",
   "keywords": [
     "Angular",
     "Angular 2",
+    "Angular 14",
     "ngx",
     "ng2",
     "Pinch zoom",
