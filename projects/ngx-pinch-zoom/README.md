@@ -1,4 +1,4 @@
-# 🍴 This is a fork of [https://github.com/drozhzhin-n-e/ngx-pinch-zoom](https://github.com/drozhzhin-n-e/ngx-pinch-zoom)
+### 🍴 This is a fork of [https://github.com/drozhzhin-n-e/ngx-pinch-zoom](https://github.com/drozhzhin-n-e/ngx-pinch-zoom)
 
 # Pinch zoom for Angular
 
